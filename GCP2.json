@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "apachebeam-378517",
+  "private_key_id": "b0c7380ceca37aef9d415f08013bf54f3ee65474",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCe0hDqjmbPESQS\ns9iHHhGzuSRw5udHTsIHXGJBNwNWIFfmQVivO1WyieJwZuTpmHnyr5PpiPImkYEk\n6nzstBJUCbH3b3UhHEqVz1+vdNEZNiYEdAGuOu25bec5YtPKwTdX0qYZHmMad60N\nshdymlUlAcDYifHsJs+dlcAxKyNIcIlbR5RYaZmSocQE24axiATUl0WdGyRp2X9f\nXPbj9VNU91xfy5a89OvPE1pokbBeaYwb8S5/vZNc3OmCVC9f/GcohvsDQ1ANscE6\nftxEnHUxfvbXEoID+aSEc4s1E/8Q/akvt5akAQnn/v4YzfpHBpm7/aHrT7NJ9IId\nJs5lWiPZAgMBAAECggEABGGnNdFX5L6EUD/F6XRa6Kpi5vp3xu/VSn6x9zqdTPL3\nedKzr6Hja1mCdbdg+VDLjHZrjjXI+GdrOKl/aMhO+SKLVlgs0w0Ewb1G1oBShG+J\n/PV2VmgpxsPRbTPcw+swq6uUCX1dHo3OqGIRY4f+cVbrCw5DLlCjyaUn+DNIdecZ\nuag0SogCiVwy9rUiRVltfZ8VaiaSzdQsznu9BVZgFVpRNP14zASX4EQ5teF5Znf6\nzfiemgyraUP46+hKvWgcR0eft82bp7+NniCud0N6BEr6F86zjbfM8wJKZNVrdJu0\nD6e8ImQLmOTC3ZY/RMRVb33b7w7kvhDEnHWk84yfQQKBgQDafaF8C/GGkB/nMgkc\nfIC5eY3ldFYZjmPgMRknPHlnqTuCQVJ/o2ci18Hkh3SkPwh64Ys8EZkXp6QlW0K8\nYUY8K+lrAwXmMEW3J2u6rFi9YRrfG4CanVbuZ5GuD2FjPD6fVrQ5lYGrsu2BpM50\neOW5ihsEO21zCre/CX3quzq0twKBgQC6FgNFOJp4w0CvGivDV56uCfbSZD2LXd6Y\nAgK/pLzaJtznz143vQnV3vMpr/Re0ig/9fLkdZvH5OJeOQUuOTXt56xuGYnzTRv8\nz1nX+WfI1nr54xp9bhcBm9tvZShfgizR3iOtLjBcYA/SNYopoE8BorFsSGdgZPhr\nHYj5BIT77wKBgQDH9urwaM3n5cgNBFIqbBgzp/gh5FNYmGT4Lndi3YoPQWdhUv96\nKcaesPCXgxFRsQ7Fx95yX3jJmXg1aEyvtCdfsqCye9XOUqe7dKy38DxXNqQtRTJy\nT0Xcc5V0xEbRV7XIhsXzXc2LovqUCI2bM3qsUKVhPjJxc4GvqbRAPJMCCQKBgE8Q\nLUGK5C7tHp2HLBLqNnRRrXoEtxVww7OoHwzX7Jlvq6oeNDTQb85b1MrghJ6JAiry\nz8l7or2SpQ9NgML78crsBRoeZbtnBr4qR0z5Hbx6THPBpy6lyMaZNumkfDvgLjTZ\nAiWBm3CULASvVM2M3CSgwGt2c93D6LxyJxFOd0YnAoGAag4KklljbGCvN7l/KHBJ\ngyFNOxycQ7q0BmdmJn6veeqxE6/0wdb9l34bgIazpjGF+ODpfrcDQ733+5SGg5Md\nquJraeU3Hp/+gKwGMfS55dwxvFlFP6AsSkiOcv+5Eo0b377yMvvYTp1I5wRMHTH1\noQey4yAEgFleDd7fEoSHAfg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "courseapache@apachebeam-378517.iam.gserviceaccount.com",
+  "client_id": "112869933124825670086",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/courseapache%40apachebeam-378517.iam.gserviceaccount.com"
+}
