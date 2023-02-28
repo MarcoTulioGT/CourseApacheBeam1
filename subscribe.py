@@ -18,5 +18,7 @@ if __name__ == "__main__":
 
     subscriber.subscribe(subscription_path, callback=callback)
 
+
+
     while True:
-        time.sleep(60)
+        time.sleep(120)
